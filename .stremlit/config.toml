@@ -1,0 +1,11 @@
+[runner]
+magicEnabled = false
+
+[theme]
+base="light"
+primaryColor="#368121"         # Optional: Customize this as needed for the light theme
+backgroundColor="#FFFFFF"
+
+[server]
+port=9999
+address="0.0.0.0"
